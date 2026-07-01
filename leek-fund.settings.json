@@ -38,11 +38,12 @@
     "nf_AG2610",
     "sh600519",
     "sz000568",
-    "sh601872"
+    "sh601872",
+    "sh603986"
   ],
   "leek-fund.stockPortfolio": {
     "schemaVersion": 2,
-    "updatedAt": "2026-07-01T06:31:06.533Z",
+    "updatedAt": "2026-07-01T06:34:05.637Z",
     "migratedFrom": "stocks-v1",
     "groups": [
       {
@@ -259,6 +260,11 @@
           {
             "code": "sh601872",
             "sort": 38
+          },
+          {
+            "code": "sh603986",
+            "sort": 39,
+            "addedAt": "2026-07-01T06:34:05.612Z"
           }
         ]
       }
