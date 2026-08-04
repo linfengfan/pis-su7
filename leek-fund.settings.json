@@ -2,10 +2,17 @@
   "leek-fund.stocks": [
     "sh000001",
     "sz399001",
+    "sh588090",
+    "sh510320",
+    "sh512080",
+    "hk00100",
+    "sh601816",
+    "sh600519",
+    "sh515170",
+    "hk07709",
     "sh563380",
     "sh512660",
     "sh515980",
-    "sh588090",
     "sh512880",
     "hf_XAG",
     "hf_XAU",
@@ -22,7 +29,6 @@
     "hf_CHA50CFD",
     "hk01810",
     "hk01398",
-    "sh601816",
     "sh518800",
     "sh600900",
     "sh601985",
@@ -36,14 +42,20 @@
     "hk06030",
     "sh601899",
     "nf_AG2610",
-    "sh600519",
     "sz000568",
     "sh601872",
-    "sh603986"
+    "sh603986",
+    "usr_mu",
+    "usr_nvda",
+    "usr_ko",
+    "sh600887",
+    "sh605599",
+    "hk02513",
+    "hk03986"
   ],
   "leek-fund.stockPortfolio": {
     "schemaVersion": 2,
-    "updatedAt": "2026-07-01T06:34:05.637Z",
+    "updatedAt": "2026-07-21T02:49:09.208Z",
     "migratedFrom": "stocks-v1",
     "groups": [
       {
@@ -92,6 +104,26 @@
           {
             "code": "hk06178",
             "sort": 9
+          },
+          {
+            "code": "sh600862",
+            "sort": 10
+          },
+          {
+            "code": "sh600519",
+            "sort": 11
+          },
+          {
+            "code": "sz000568",
+            "sort": 12
+          },
+          {
+            "code": "sh601816",
+            "sort": 13
+          },
+          {
+            "code": "hk00100",
+            "sort": 14
           }
         ]
       },
@@ -110,161 +142,206 @@
             "sort": 1
           },
           {
-            "code": "sh563380",
-            "sort": 2,
-            "addedAt": "2026-07-01T06:30:49.544Z"
-          },
-          {
-            "code": "sh512660",
-            "sort": 3,
-            "addedAt": "2026-07-01T06:30:38.157Z"
-          },
-          {
-            "code": "sh515980",
-            "sort": 4,
-            "addedAt": "2026-07-01T06:29:12.267Z"
-          },
-          {
             "code": "sh588090",
-            "sort": 5,
-            "addedAt": "2026-07-01T06:28:50.124Z"
+            "sort": 2
           },
           {
-            "code": "sh512880",
-            "sort": 6
+            "code": "sh510320",
+            "sort": 3,
+            "addedAt": "2026-07-21T02:48:25.518Z"
           },
           {
-            "code": "hf_XAG",
-            "sort": 7
+            "code": "sh512080",
+            "sort": 4,
+            "addedAt": "2026-07-21T02:45:47.528Z"
           },
           {
-            "code": "hf_XAU",
-            "sort": 8
-          },
-          {
-            "code": "sh601995",
-            "sort": 9
-          },
-          {
-            "code": "sh601198",
-            "sort": 10
-          },
-          {
-            "code": "sh600030",
-            "sort": 11
-          },
-          {
-            "code": "sh601788",
-            "sort": 12
-          },
-          {
-            "code": "sh601939",
-            "sort": 13
-          },
-          {
-            "code": "sh601857",
-            "sort": 14
-          },
-          {
-            "code": "usr_ixic",
-            "sort": 15
-          },
-          {
-            "code": "usr_dji",
-            "sort": 16
-          },
-          {
-            "code": "usr_inx",
-            "sort": 17
-          },
-          {
-            "code": "hf_OIL",
-            "sort": 18
-          },
-          {
-            "code": "hf_CHA50CFD",
-            "sort": 19
-          },
-          {
-            "code": "hk01810",
-            "sort": 20
-          },
-          {
-            "code": "hk01398",
-            "sort": 21
+            "code": "hk00100",
+            "sort": 5
           },
           {
             "code": "sh601816",
-            "sort": 22
-          },
-          {
-            "code": "sh518800",
-            "sort": 23
-          },
-          {
-            "code": "sh600900",
-            "sort": 24
-          },
-          {
-            "code": "sh601985",
-            "sort": 25
-          },
-          {
-            "code": "hk00939",
-            "sort": 26
-          },
-          {
-            "code": "sz000858",
-            "sort": 27
-          },
-          {
-            "code": "hk03908",
-            "sort": 28
-          },
-          {
-            "code": "sh600862",
-            "sort": 29
-          },
-          {
-            "code": "sh601728",
-            "sort": 30
-          },
-          {
-            "code": "nf_AG2608",
-            "sort": 31
-          },
-          {
-            "code": "hk06178",
-            "sort": 32
-          },
-          {
-            "code": "hk06030",
-            "sort": 33
-          },
-          {
-            "code": "sh601899",
-            "sort": 34
-          },
-          {
-            "code": "nf_AG2610",
-            "sort": 35
+            "sort": 6
           },
           {
             "code": "sh600519",
+            "sort": 7
+          },
+          {
+            "code": "sh515170",
+            "sort": 8
+          },
+          {
+            "code": "hk07709",
+            "sort": 9
+          },
+          {
+            "code": "sh563380",
+            "sort": 10
+          },
+          {
+            "code": "sh512660",
+            "sort": 11
+          },
+          {
+            "code": "sh515980",
+            "sort": 12
+          },
+          {
+            "code": "sh512880",
+            "sort": 13
+          },
+          {
+            "code": "hf_XAG",
+            "sort": 14
+          },
+          {
+            "code": "hf_XAU",
+            "sort": 15
+          },
+          {
+            "code": "sh601995",
+            "sort": 16
+          },
+          {
+            "code": "sh601198",
+            "sort": 17
+          },
+          {
+            "code": "sh600030",
+            "sort": 18
+          },
+          {
+            "code": "sh601788",
+            "sort": 19
+          },
+          {
+            "code": "sh601939",
+            "sort": 20
+          },
+          {
+            "code": "sh601857",
+            "sort": 21
+          },
+          {
+            "code": "usr_ixic",
+            "sort": 22
+          },
+          {
+            "code": "usr_dji",
+            "sort": 23
+          },
+          {
+            "code": "usr_inx",
+            "sort": 24
+          },
+          {
+            "code": "hf_OIL",
+            "sort": 25
+          },
+          {
+            "code": "hf_CHA50CFD",
+            "sort": 26
+          },
+          {
+            "code": "hk01810",
+            "sort": 27
+          },
+          {
+            "code": "hk01398",
+            "sort": 28
+          },
+          {
+            "code": "sh518800",
+            "sort": 29
+          },
+          {
+            "code": "sh600900",
+            "sort": 30
+          },
+          {
+            "code": "sh601985",
+            "sort": 31
+          },
+          {
+            "code": "hk00939",
+            "sort": 32
+          },
+          {
+            "code": "sz000858",
+            "sort": 33
+          },
+          {
+            "code": "hk03908",
+            "sort": 34
+          },
+          {
+            "code": "sh600862",
+            "sort": 35
+          },
+          {
+            "code": "sh601728",
             "sort": 36
           },
           {
-            "code": "sz000568",
+            "code": "nf_AG2608",
             "sort": 37
           },
           {
-            "code": "sh601872",
+            "code": "hk06178",
             "sort": 38
           },
           {
+            "code": "hk06030",
+            "sort": 39
+          },
+          {
+            "code": "sh601899",
+            "sort": 40
+          },
+          {
+            "code": "nf_AG2610",
+            "sort": 41
+          },
+          {
+            "code": "sz000568",
+            "sort": 42
+          },
+          {
+            "code": "sh601872",
+            "sort": 43
+          },
+          {
             "code": "sh603986",
-            "sort": 39,
-            "addedAt": "2026-07-01T06:34:05.612Z"
+            "sort": 44
+          },
+          {
+            "code": "usr_mu",
+            "sort": 45
+          },
+          {
+            "code": "usr_nvda",
+            "sort": 46
+          },
+          {
+            "code": "usr_ko",
+            "sort": 47
+          },
+          {
+            "code": "sh600887",
+            "sort": 48
+          },
+          {
+            "code": "sh605599",
+            "sort": 49
+          },
+          {
+            "code": "hk02513",
+            "sort": 50
+          },
+          {
+            "code": "hk03986",
+            "sort": 51
           }
         ]
       }
@@ -276,113 +353,399 @@
   "leek-fund.stockPrice": {
     "sh601198": {
       "name": "东兴证券",
-      "amount": 18600,
-      "price": "12.59",
-      "unitPrice": 12.18,
+      "amount": 18800,
+      "price": "13.95",
+      "unitPrice": 12.185,
       "todayUnitPrice": 12.18,
       "isSellOut": false,
-      "earnings": 0,
-      "priceDate": ""
+      "earnings": 0
     },
     "sh600030": {
       "name": "中信证券",
-      "amount": 4200,
-      "price": "24.36",
-      "unitPrice": 27.29,
+      "amount": 4500,
+      "price": "28.10",
+      "unitPrice": 26.701,
       "todayUnitPrice": 27.29,
       "isSellOut": false,
-      "earnings": 0,
-      "priceDate": ""
+      "earnings": 0
     },
     "sh601788": {
       "name": "光大证券",
-      "amount": 7900,
-      "price": "15.33",
-      "unitPrice": 16.95,
+      "amount": 9100,
+      "price": "14.79",
+      "unitPrice": 16.697,
       "todayUnitPrice": 16.95,
       "isSellOut": false,
-      "earnings": 0,
-      "priceDate": ""
-    },
-    "usr_tigr": {
-      "name": "老虎证券",
-      "amount": 8,
-      "price": "6.830",
-      "unitPrice": 10.0038,
-      "todayUnitPrice": 10.0038,
-      "isSellOut": false,
-      "earnings": 0,
-      "priceDate": ""
+      "earnings": 0
     },
     "sh601939": {
       "name": "建设银行",
-      "amount": 28700,
-      "price": "9.32",
-      "unitPrice": 8.858,
+      "amount": 13500,
+      "price": "9.80",
+      "unitPrice": 7.337,
       "todayUnitPrice": 8.858,
       "isSellOut": false,
-      "earnings": 0,
-      "priceDate": ""
+      "earnings": 0
     },
     "sh601857": {
       "name": "中国石油",
       "amount": 8100,
-      "price": "11.99",
-      "unitPrice": 7.491,
+      "price": "9.99",
+      "unitPrice": 7.241,
       "todayUnitPrice": 7.491,
       "isSellOut": false,
-      "earnings": 0,
-      "priceDate": ""
+      "earnings": 0
     },
     "sh600900": {
-      "name": "长江电力",
+      "name": "XD长江电",
       "amount": 800,
-      "price": "27.10",
-      "unitPrice": 26.316999999999997,
+      "price": "27.45",
+      "unitPrice": 25.527,
       "todayUnitPrice": 26.316999999999997,
       "isSellOut": false,
-      "earnings": 0,
-      "priceDate": ""
+      "earnings": 0
     },
     "sh601985": {
-      "name": "中国核电",
-      "amount": 4000,
-      "price": "9.14",
-      "unitPrice": 8.875,
+      "name": "XD中国核",
+      "amount": 4400,
+      "price": "8.71",
+      "unitPrice": 8.706,
       "todayUnitPrice": 8.875,
       "isSellOut": false,
-      "earnings": 0,
-      "priceDate": ""
+      "earnings": 0
+    },
+    "sh600862": {
+      "name": "中航高科",
+      "amount": 600,
+      "price": "19.47",
+      "unitPrice": 18.719,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh600519": {
+      "name": "贵州茅台",
+      "amount": 100,
+      "price": "1258.99",
+      "unitPrice": 1249.936,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sz000568": {
+      "name": "泸州老窖",
+      "amount": 200,
+      "price": "84.18",
+      "unitPrice": 83.396,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh601816": {
+      "name": "京沪高铁",
+      "amount": 1700,
+      "price": "4.74",
+      "unitPrice": 4.598,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sz399001": {
+      "name": "深证成指",
+      "amount": 0,
+      "price": "14488.654",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh515170": {
+      "name": "食品饮料ETF华夏",
+      "amount": 0,
+      "price": "0.462",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh563380": {
+      "name": "航空航天ETF华泰柏瑞",
+      "amount": 0,
+      "price": "0.921",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh512660": {
+      "name": "军工ETF国泰",
+      "amount": 0,
+      "price": "1.120",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh515980": {
+      "name": "人工智能ETF华富",
+      "amount": 0,
+      "price": "1.136",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh588090": {
+      "name": "科创50ETF华泰柏瑞",
+      "amount": 0,
+      "price": "1.896",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh512880": {
+      "name": "证券ETF国泰",
+      "amount": 0,
+      "price": "1.113",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "hf_XAG": {
+      "name": "伦敦银（现货白银）",
+      "amount": 0,
+      "price": "55.49",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "hf_XAU": {
+      "name": "伦敦金（现货黄金）",
+      "amount": 0,
+      "price": "3976.26",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh601995": {
+      "name": "中金公司",
+      "amount": 0,
+      "price": "36.45",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh518800": {
+      "name": "黄金ETF国泰",
+      "amount": 0,
+      "price": "8.764",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sz000858": {
+      "name": "五 粮 液",
+      "amount": 0,
+      "price": "73.90",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh601728": {
+      "name": "中国电信",
+      "amount": 0,
+      "price": "5.89",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "nf_AG2608": {
+      "name": "白银2608",
+      "amount": 0,
+      "price": "14036",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh601899": {
+      "name": "紫金矿业",
+      "amount": 0,
+      "price": "29.25",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "nf_AG2610": {
+      "name": "白银2610",
+      "amount": 0,
+      "price": "14052",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh601872": {
+      "name": "招商轮船",
+      "amount": 0,
+      "price": "14.16",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh603986": {
+      "name": "兆易创新",
+      "amount": 0,
+      "price": "514.61",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "usr_mu": {
+      "name": "美光",
+      "amount": 0,
+      "price": "904.280",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "usr_nvda": {
+      "name": "英伟达",
+      "amount": 0,
+      "price": "212.500",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "usr_ko": {
+      "name": "可口可乐",
+      "amount": 0,
+      "price": "82.45",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh600887": {
+      "name": "伊利股份",
+      "amount": 0,
+      "price": "26.03",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "sh605599": {
+      "name": "菜百股份",
+      "amount": 0,
+      "price": "14.65",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
     },
     "hk01810": {
       "name": "小米集团-W",
       "amount": 200,
-      "price": "32.68",
+      "price": "27.50",
       "unitPrice": 120.31,
       "todayUnitPrice": 120.31,
       "isSellOut": false,
-      "earnings": 0,
-      "priceDate": ""
+      "earnings": 0
     },
     "hk01398": {
       "name": "工商银行",
       "amount": 2000,
-      "price": "6.51",
+      "price": "6.88",
       "unitPrice": 5.584,
       "todayUnitPrice": 5.584,
       "isSellOut": false,
-      "earnings": 0,
-      "priceDate": ""
+      "earnings": 0
     },
     "hk06178": {
       "name": "光大证券",
       "amount": 2600,
-      "price": "7.74",
+      "price": "7.46",
       "unitPrice": 8.114,
       "todayUnitPrice": 8.114,
       "isSellOut": false,
-      "earnings": 0,
-      "priceDate": ""
+      "earnings": 0
+    },
+    "hk00100": {
+      "name": "MINIMAX-W",
+      "amount": 20,
+      "price": "256.0",
+      "unitPrice": 213,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "hk07709": {
+      "name": "XL二南方海力士",
+      "amount": 0,
+      "price": "56.48",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "hk00939": {
+      "name": "建设银行",
+      "amount": 0,
+      "price": "8.19",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "hk03908": {
+      "name": "中金公司",
+      "amount": 0,
+      "price": "22.10",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "hk06030": {
+      "name": "中信证券",
+      "amount": 0,
+      "price": "27.52",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "hk02513": {
+      "name": "智谱",
+      "amount": 0,
+      "price": "1548",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
+    },
+    "hk03986": {
+      "name": "兆易创新",
+      "amount": 0,
+      "price": "600.0",
+      "unitPrice": 0,
+      "todayUnitPrice": 0,
+      "isSellOut": false,
+      "earnings": 0
     }
   },
   "leek-fund.stockHeldTipShow": false,
@@ -437,7 +800,7 @@
   "leek-fund.fundAmount": {},
   "leek-fund.holdingsLedger": {
     "schemaVersion": 1,
-    "updatedAt": "2026-06-02T02:57:32.211Z",
+    "updatedAt": "2026-07-17T02:25:08.676Z",
     "revision": 0,
     "defaultAccountId": "00000000-0000-4000-8000-000000000001",
     "accounts": [
@@ -456,13 +819,16 @@
             "lots": [
               {
                 "id": "fa9706c1-9cc6-438d-9071-0a89987ac017",
-                "quantity": 18600,
-                "unitCost": 12.18,
+                "quantity": 18800,
+                "unitCost": 12.185,
                 "openedAt": "2026-06-02",
                 "source": "manual"
               }
             ],
-            "updatedAt": "2026-06-02T02:57:32.211Z"
+            "updatedAt": "2026-07-17T02:25:08.675Z",
+            "intraday": {
+              "todayUnitPrice": 12.18
+            }
           },
           {
             "id": "20c1403f-5f49-468f-8614-701393c7afd7",
@@ -473,13 +839,16 @@
             "lots": [
               {
                 "id": "cd449ab9-ab18-4110-a4c7-db2319927ca4",
-                "quantity": 4200,
-                "unitCost": 27.29,
+                "quantity": 4500,
+                "unitCost": 26.701,
                 "openedAt": "2026-06-02",
                 "source": "manual"
               }
             ],
-            "updatedAt": "2026-06-02T02:57:32.211Z"
+            "updatedAt": "2026-07-17T02:25:08.676Z",
+            "intraday": {
+              "todayUnitPrice": 27.29
+            }
           },
           {
             "id": "79c4ee93-bd6b-4274-b596-dd98bb7b9592",
@@ -490,13 +859,16 @@
             "lots": [
               {
                 "id": "a359ae9e-b1af-4b8d-a759-2aaff11f2b7f",
-                "quantity": 7900,
-                "unitCost": 16.95,
+                "quantity": 9100,
+                "unitCost": 16.697,
                 "openedAt": "2026-06-02",
                 "source": "manual"
               }
             ],
-            "updatedAt": "2026-06-02T02:57:32.211Z"
+            "updatedAt": "2026-07-17T02:25:08.676Z",
+            "intraday": {
+              "todayUnitPrice": 16.95
+            }
           },
           {
             "id": "c261828d-4545-4607-aeca-02ffaf21ff02",
@@ -507,13 +879,16 @@
             "lots": [
               {
                 "id": "d0a44089-58a9-4f9b-bba5-8752c956134a",
-                "quantity": 28700,
-                "unitCost": 8.858,
+                "quantity": 13500,
+                "unitCost": 7.337,
                 "openedAt": "2026-06-02",
                 "source": "manual"
               }
             ],
-            "updatedAt": "2026-06-02T02:57:32.211Z"
+            "updatedAt": "2026-07-17T02:25:08.676Z",
+            "intraday": {
+              "todayUnitPrice": 8.858
+            }
           },
           {
             "id": "0c19b70a-753d-446b-8e9e-b3a0494974c5",
@@ -525,12 +900,15 @@
               {
                 "id": "c6d30918-74c4-49c2-ad9f-a730bc1aecc5",
                 "quantity": 8100,
-                "unitCost": 7.491,
+                "unitCost": 7.241,
                 "openedAt": "2026-06-02",
                 "source": "manual"
               }
             ],
-            "updatedAt": "2026-06-02T02:57:32.211Z"
+            "updatedAt": "2026-07-17T02:25:08.676Z",
+            "intraday": {
+              "todayUnitPrice": 7.491
+            }
           },
           {
             "id": "d3f0689c-7c1a-4310-9239-dfe72451b232",
@@ -542,12 +920,15 @@
               {
                 "id": "23676d50-8c58-4adc-9027-5c05ad2cbf40",
                 "quantity": 800,
-                "unitCost": 26.317,
+                "unitCost": 25.527,
                 "openedAt": "2026-06-02",
                 "source": "manual"
               }
             ],
-            "updatedAt": "2026-06-02T02:57:32.211Z"
+            "updatedAt": "2026-07-17T02:25:08.676Z",
+            "intraday": {
+              "todayUnitPrice": 26.316999999999997
+            }
           },
           {
             "id": "5c354636-5e5c-4e07-8b47-8d7e8f14b2cb",
@@ -558,13 +939,16 @@
             "lots": [
               {
                 "id": "ff55b037-ddc7-4c26-a56c-95fb0817624f",
-                "quantity": 4000,
-                "unitCost": 8.875,
+                "quantity": 4400,
+                "unitCost": 8.706,
                 "openedAt": "2026-06-02",
                 "source": "manual"
               }
             ],
-            "updatedAt": "2026-06-02T02:57:32.211Z"
+            "updatedAt": "2026-07-17T02:25:08.676Z",
+            "intraday": {
+              "todayUnitPrice": 8.875
+            }
           },
           {
             "id": "64835c79-348a-4299-8493-3555dfd6f08d",
@@ -581,7 +965,10 @@
                 "source": "manual"
               }
             ],
-            "updatedAt": "2026-06-02T02:57:32.211Z"
+            "updatedAt": "2026-07-17T02:25:08.676Z",
+            "intraday": {
+              "todayUnitPrice": 120.31
+            }
           },
           {
             "id": "55638236-a300-4db8-9fc7-03996ad19525",
@@ -598,7 +985,10 @@
                 "source": "manual"
               }
             ],
-            "updatedAt": "2026-06-02T02:57:32.211Z"
+            "updatedAt": "2026-07-17T02:25:08.676Z",
+            "intraday": {
+              "todayUnitPrice": 5.584
+            }
           },
           {
             "id": "f6961296-da03-43c0-9d88-7b34e7c15136",
@@ -615,7 +1005,95 @@
                 "source": "manual"
               }
             ],
-            "updatedAt": "2026-06-02T02:57:32.211Z"
+            "updatedAt": "2026-07-17T02:25:08.676Z",
+            "intraday": {
+              "todayUnitPrice": 8.114
+            }
+          },
+          {
+            "id": "0a25cb97-5857-4b7e-817c-a442808c522a",
+            "assetType": "stock",
+            "code": "sh600862",
+            "status": "open",
+            "costMethod": "average",
+            "lots": [
+              {
+                "id": "dc7bfc5e-852c-476f-94d8-2a8e3fa5634b",
+                "quantity": 600,
+                "unitCost": 18.719,
+                "openedAt": "2026-07-17",
+                "source": "manual"
+              }
+            ],
+            "updatedAt": "2026-07-17T02:25:08.676Z"
+          },
+          {
+            "id": "6a095f59-5742-4c01-936c-1210e1e48c8c",
+            "assetType": "stock",
+            "code": "sh600519",
+            "status": "open",
+            "costMethod": "average",
+            "lots": [
+              {
+                "id": "779fc6dc-a0fb-4e5c-be96-a34f0965f936",
+                "quantity": 100,
+                "unitCost": 1249.936,
+                "openedAt": "2026-07-17",
+                "source": "manual"
+              }
+            ],
+            "updatedAt": "2026-07-17T02:25:08.676Z"
+          },
+          {
+            "id": "e399d1f5-40ef-4bb1-9345-1e2f9cdaaf51",
+            "assetType": "stock",
+            "code": "sz000568",
+            "status": "open",
+            "costMethod": "average",
+            "lots": [
+              {
+                "id": "12361e02-77e2-4327-aa47-6f8846c89c77",
+                "quantity": 200,
+                "unitCost": 83.396,
+                "openedAt": "2026-07-17",
+                "source": "manual"
+              }
+            ],
+            "updatedAt": "2026-07-17T02:25:08.676Z"
+          },
+          {
+            "id": "86f3cc7a-5b80-4a6f-994c-1475b4f68eab",
+            "assetType": "stock",
+            "code": "sh601816",
+            "status": "open",
+            "costMethod": "average",
+            "lots": [
+              {
+                "id": "5a493f60-b7e5-4269-9a23-dc7e11dcbaa2",
+                "quantity": 1700,
+                "unitCost": 4.598,
+                "openedAt": "2026-07-17",
+                "source": "manual"
+              }
+            ],
+            "updatedAt": "2026-07-17T02:25:08.676Z"
+          },
+          {
+            "id": "c6597440-286c-49c5-aa64-80d98d967007",
+            "assetType": "stock",
+            "code": "hk00100",
+            "status": "open",
+            "costMethod": "average",
+            "lots": [
+              {
+                "id": "d7ed65a8-9f27-4cd1-95ed-eb1afbf1912b",
+                "quantity": 20,
+                "unitCost": 213,
+                "openedAt": "2026-07-17",
+                "source": "manual"
+              }
+            ],
+            "updatedAt": "2026-07-17T02:25:08.676Z"
           }
         ]
       }
@@ -668,5 +1146,12 @@
     "model": ""
   },
   "leek-fund.leekAgent.preferredVendor": "",
+  "leek-fund.leekAgent.maxVisibleTurns": 30,
+  "leek-fund.leekAgent.streamParseIntervalMs": 0,
+  "leek-fund.leekAgent.autoScrollToBottom": true,
+  "leek-fund.leekAgent.maxHistoryTurns": 10,
+  "leek-fund.leekAgent.autoMatchSkills": true,
+  "leek-fund.leekAgent.skills.enabled": true,
+  "leek-fund.leekAgent.skills.userDir": "",
   "leek-fund.aiStockHistoryRange": "1w"
 }
